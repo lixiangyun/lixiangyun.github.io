@@ -7,7 +7,7 @@
 ## 基于C语言
 - [自动化telnet工具](https://github.com/lixiangyun/ctelnet)
 - [网络文件系统](https://github.com/lixiangyun/sdfs)
-- [高性能面锁算法库](https://github.com/lixiangyun/libfutil)
+- [高性能免锁算法库](https://github.com/lixiangyun/libfutil)
 
 ## 基于Go语言
 - [简单RPC](https://github.com/lixiangyun/srpc)
