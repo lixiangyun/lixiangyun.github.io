@@ -21,3 +21,5 @@
 - [Etcd SDK](https://github.com/lixiangyun/etcdsdk)
 - [网络时间同步](https://github.com/lixiangyun/go_ntp)
 - [TCP 代理](https://github.com/lixiangyun/tcpproxy)
+- [HTTP 代理](https://github.com/lixiangyun/httpproxy)
+- [GO 单元测试框架](https://github.com/lixiangyun/gounit)
