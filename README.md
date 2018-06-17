@@ -15,11 +15,11 @@
 - [高性能免锁算法库](https://github.com/lixiangyun/libfutil)
 
 ### Go语言项目
-- [简单RPC](https://github.com/lixiangyun/srpc)
 - [消息通信](https://github.com/lixiangyun/comm)
-- [Telnet客户端](https://github.com/lixiangyun/go_telnet)
-- [Etcd SDK](https://github.com/lixiangyun/etcdsdk)
 - [网络时间同步](https://github.com/lixiangyun/go_ntp)
+- [简单 RPC](https://github.com/lixiangyun/srpc)
+- [Telnet 客户端](https://github.com/lixiangyun/go_telnet)
+- [Etcd SDK](https://github.com/lixiangyun/etcdsdk)
 - [TCP 代理](https://github.com/lixiangyun/tcpproxy)
 - [HTTP 代理](https://github.com/lixiangyun/httpproxy)
 - [GO 单元测试框架](https://github.com/lixiangyun/gounit)
