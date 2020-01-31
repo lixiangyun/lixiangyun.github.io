@@ -31,3 +31,5 @@
 - [GO 单元测试框架](https://github.com/lixiangyun/gounit)
 - [虚拟加密通道](https://github.com/lixiangyun/vchannel)
 - [http file server](https://github.com/lixiangyun/httpfile)
+- [http二级代理](https://github.com/lixiangyun/goproxy_deploy)
+- [sidecar-tls通道加密](https://github.com/lixiangyun/service-sidecar-tls)
