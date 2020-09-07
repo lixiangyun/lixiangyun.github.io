@@ -35,3 +35,7 @@
 - [http file server](https://github.com/lixiangyun/httpfile)
 - [http二级代理](https://github.com/lixiangyun/goproxy_deploy)
 - [sidecar-tls通道加密](https://github.com/lixiangyun/service-sidecar-tls)
+
+### 赞助作者
+![微信支付宝](./20200907_120857888.jpg)
+[paypal支付](https://paypal.me/lixiangyun)
